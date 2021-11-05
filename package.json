@@ -8,9 +8,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parcel-bundler": "^1.12.5"
+    "install": "^0.13.0",
+    "npm": "^8.1.3",
+    "parcel-bundler": "^1.12.5",
+    "webmidi": "^2.5.3"
   },
   "devDependencies": {
+    "@types/webmidi": "^2.0.6",
     "typescript": "^4.4.4"
   }
 }
